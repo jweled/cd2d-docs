@@ -1,13 +1,9 @@
-Welcome to Lumache's documentation!
+CD2D Documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**CD2D** is an open-source library for generating high-performance 2D graphics in JavaScript, without the use of any external dependencies.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+See the :doc:`quickstart` guide to install quickly.
 
 .. note::
 
@@ -18,5 +14,5 @@ Contents
 
 .. toctree::
 
-   usage
+   quickstart
    api
